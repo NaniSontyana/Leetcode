@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NaniSontyana/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/NaniSontyana/Leetcode/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/NaniSontyana/Leetcode/tree/master/0130-surrounded-regions) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/NaniSontyana/Leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
